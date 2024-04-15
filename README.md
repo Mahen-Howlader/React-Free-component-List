@@ -19,8 +19,6 @@ library
 5, https://daisyui.com/
 
 
-- [ByteBlaze](https://byte-blaze.netlify.app/)
-
 Resources:
 
 - [React Router Dom](https://reactrouter.com/en/main)
