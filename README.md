@@ -19,14 +19,6 @@ library
 5, https://daisyui.com/
 
 
-
-
-
-####package 
-# Byteblaze
-
-Live site:
-
 - [ByteBlaze](https://byte-blaze.netlify.app/)
 
 Resources:
