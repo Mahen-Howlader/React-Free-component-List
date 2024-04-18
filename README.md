@@ -71,6 +71,7 @@ Resources:
 [slick-slider](https://www.npmjs.com/package/aos) - slider pacakge
 
 [react-icons](https://react-icons.github.io/react-icons) - icon pacakge
+
 [react-Calendar](https://projects.wojtekmaj.pl/react-calendar/) - React_calendar
 
 # Contribute
