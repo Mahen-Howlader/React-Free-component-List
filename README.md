@@ -73,6 +73,7 @@ Resources:
 [react-icons](https://react-icons.github.io/react-icons) - icon pacakge
 
 [react-Calendar](https://projects.wojtekmaj.pl/react-calendar/) - React_calendar
+[react-sweet_pop_up](https://sweetalert2.github.io/) - React_pop-up slider
 
 # Contribute
 
