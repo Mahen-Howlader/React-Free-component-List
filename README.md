@@ -35,7 +35,15 @@ Resources:
 - [Daisy UI](https://daisyui.com/)
 - [TailwindCSS](https://tailwindcss.com/)
 
-
+- [Meraki UI - Components](https://merakiui.com/components)
+- [react-tabs](https://www.npmjs.com/package/react-tabs)
+- [Swiper Slider](https://swiperjs.com/)
+- [Daisy UI](https://daisyui.com/)
+- [Express](https://expressjs.com/)
+- [Firebase](https://console.firebase.google.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [date-fns](https://date-fns.org/)
+- [axios](https://axios-http.com/docs/intro)
 
 ### collect facebook page 
 [React-Paginate](https://www.npmjs.com/package/react-paginate) - A ReactJS component to render a pagination.
