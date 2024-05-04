@@ -34,7 +34,7 @@ Resources:
 - [Prop-Types](https://www.npmjs.com/package/prop-types)
 - [Daisy UI](https://daisyui.com/)
 - [TailwindCSS](https://tailwindcss.com/)
-
+ -------------------------------------------------------------------------
 - [Meraki UI - Components](https://merakiui.com/components)
 - [react-tabs](https://www.npmjs.com/package/react-tabs)
 - [Swiper Slider](https://swiperjs.com/)
